@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Narrative of the great and bloody fight between the Prince of Orange and the Duke of Orleans, the King of Frances General, near the city of St. Omers, on Sunday the first of April 1677 with the numbers of the kil'd and wounded men, being an impartial account.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52634</idno>
+            <idno type="STC">Wing N187</idno>
+            <idno type="STC">ESTC R8577</idno>
+            <idno type="EEBO-CITATION">12196094</idno>
+            <idno type="OCLC">ocm 12196094</idno>
+            <idno type="VID">55990</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55990)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Narrative of the great and bloody fight between the Prince of Orange and the Duke of Orleans, the King of Frances General, near the city of St. Omers, on Sunday the first of April 1677 with the numbers of the kil'd and wounded men, being an impartial account.</title>
+               </titleStmt>
+               <extent>[2], 4 [i.e. 2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Louis --  XIV, --  King of France, 1638-1715.</term>
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>France --  History --  Louis XIV, 1643-1715.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55990:1"/>
+            <!-- PDF PAGE 45 -->
+            <pb facs="tcp:55990:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 45 -->
+            <p>A NARRATIVE Of the Great and Bloody Fight BETVVEEN THE Prince of Orange AND THE Duke of Orleans The King of <hi>Frances</hi> General, NEAR THE City of St. Omers,</p>
+            <p>On Sunday the firſt of <hi>April</hi> 1677. with the Numbers of the Kil'd and Wounded Men. BEING AN Impartial Account.</p>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. M.</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:55990:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <pb n="1" facs="tcp:55990:2"/>
+            <!-- PDF PAGE 46 -->
+            <head>A Narrative of the Great and Bloody Fight between the Prince of <hi>Orange</hi> and the Duke of <hi>Orleans,</hi> the King of <hi>France</hi>'s General, near the City of St. <hi>Omers</hi> on <hi>Sunday</hi> the firſt of <hi>April,</hi> 1677.</head>
+            <p>THE diſapointment the Prince of <hi>Orange</hi> met with at <hi>Maeſtricht</hi> the Laſt year, occaſioned by the Duke <hi>de Villa Hermoſa,</hi> not im<g ref="char:EOLhyphen"/>peding the Count <hi>Schomberg</hi> from Relieving the ſaid place, which he had brought to ſuch extremity, that they were not able to defend the Town much longer without relief, and not having then the Sole Command, and other Confederate Princes being joyned with him, made him reſolve upon ſomething that might vindicate his Honor and Courage, (and afterwards to act diſtinctly) in order to which the laſt <hi>Winter</hi> he recruited his Army, not only taking care to furniſh them with all neceſſaries and increaſe their numbers, but like a diſcreet General well diſciplin'd them. And therefore with all dilligence brought them into the Field to prevent the progreſs of the <hi>French,</hi> and ſo to that pur<g ref="char:EOLhyphen"/>poſe at <hi>Ipres</hi> on the 8 Inſtant <hi>Newſtile,</hi> drew his Army up in <hi>Battalia,</hi> from whence the next day he marcht to the firſt opoſition which was at the River <hi>Peene,</hi> which was poſted by the <hi>French,</hi> whereupon the Prince Com<g ref="char:EOLhyphen"/>manded an Attack upon them which proved with good ſucceſs, and made the <hi>French</hi> retreat, and give way to the <hi>Dutch</hi> after ſome hours diſpute, after which the Prince cauſed ſeveral Bridges to be throne over the River for his Army to paſs, uſing all means to get to the relief of St. <hi>Omers</hi> before the Detachement arrived there from <hi>Cambray</hi> for the Ene<g ref="char:EOLhyphen"/>mies reinforcement, but the ways proving very deep and heavy, much Retarded his Highneſs <hi>March.</hi> On the 11. <hi>ditto.</hi> his Highneſs came in view of the <hi>French</hi> Army commanded by the Duke of <hi>Orleans</hi> being ſtrength'd the Evening before by the Duke of <hi>Luxemburghs</hi> Army from <hi>Cambray;</hi> the Prince notwithſtanding the odds and the want of Count <hi>Naſſaus</hi> Preſence, on <hi>Sunday</hi> about nine a Clock in the Morning engaged the Enemy till Evening with great Courage and Gallantry, beating down the left-wing of the <hi>French</hi> Army for ſome hours, but continual ſupplies, and the Courage of the Valliant Duke of <hi>Orleans</hi> turned the Seales and made the <hi>Dutch</hi> Retreat in ſome diſorder.</p>
+            <p>Till ſuch time as they Retreated to a narrow Paſs and a graft, where the Princes Artillery and Baggage was placed, who diſputed it till it was quite dark, and where the Prince was Reſolved to maintain the fight the next day, but his <hi>Scouts</hi> bringing intelligence the Count <hi>de Naſſaw</hi> was
+<pb n="4" facs="tcp:55990:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 47 -->not come in, nor any hopes in Reaſonable time, made him take a Reſoluti<g ref="char:EOLhyphen"/>on to march off with as much Honour as the exigence of the buſineſs would allow, which was excellent well performed, for though the <hi>French</hi> were far Superiour to him in Horſe, his Highneſs taking the advantage of the ground which was moſt Incloſures and Ditches, made his retreat more eaſie by line<g ref="char:EOLhyphen"/>ing the Hedges and maintaining the Paſſes, which coſt the <hi>French</hi> much Pains and blood, but the <hi>French</hi> preſſing very vigorouſly upon the <hi>Dutch,</hi> and their want of Cavalry made it impoſſible for them to bring off their Guns and Baggage, and therefore were forc'd to leave them be<g ref="char:EOLhyphen"/>hind; the Prince between this and <hi>Ipre</hi> the next day marcht in good order, having the night before taken care of all the wounded men, ſo that if the <hi>French</hi> had over taken them, they would run the hazard of another Battle, but they were more intent upon the taking in of St. <hi>Omers</hi> as is ſuppoſed, in this diſpute there was much Reſolutions on both ſides, the <hi>Dutch,</hi> though worſted, was much to be commended, and 'tis thought had not the badneſs of the ways Prevented them, had carried off their Guns and Artillery.</p>
+            <p>We have not as yet an exact Account of what Perſons of Quallity are Killed or taken on either ſide, but what is uncertain, and therefore think it not prudence to declare it, though Letters ſay people of Eminence on both ſides.</p>
+            <p>The <hi>French</hi> having defeated the Prince, remained Maſters of the field. In this encounter, by the beſt computation, the <hi>Dutch</hi> have loſt 4000 men and 2000 wounded, which were carried off, beſides others that were able to March off; The <hi>French</hi> loſs ſuppoſed not ſo conſider<g ref="char:EOLhyphen"/>able by ſome hundreds, however the Gentlemen at Armes and the Kings Musketeers ſuffered ſo much upon this occaſion, as being the people that oppoſed the fury of the Enemy moſt, Charged the Princes Guards and choic<g ref="char:EOLhyphen"/>eſt of his Infantry, who were at Puſh of Pike and Swords Point for nere an hour together, before either gave way, neither were the Courage and endeavours of the beſieged wanting who made ſeveral brisk and Reſo<g ref="char:EOLhyphen"/>lute Sallies upon the Forts, which the Duke had ordered to be filled with men, to prevent any miſchief from the Town upon the Rear of his Ar<g ref="char:EOLhyphen"/>my, whilſt the Enemy was in the Van, and had certainly carried <hi>des Va<g ref="char:EOLhyphen"/>ches</hi> had not a Regement of Horſe and Dragoons come into the relief of the Fort, who made the beſieged return twice as faſt as they came out, Leaving behind them ſeveral Dead bodies and ſome Priſoners. The Gar<g ref="char:EOLhyphen"/>riſon in St. <hi>Omers</hi> are full of Courage and Reſolution beyond any of the <hi>Spaniſh</hi> Garriſons, the <hi>French</hi> have ſate down before as yet, but how long they ſhall be able to withſtand the <hi>French</hi> after the Princes retreat, with<g ref="char:EOLhyphen"/>out further ſupplies, a little time will produce.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
